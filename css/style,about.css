@@ -1,0 +1,101 @@
+/* Start Section About Us */
+.about-us {
+  background-color: #29448e;
+  color: #FFF;
+  font-weight: bolder;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* Start Section About Us */
+
+/* Start New Section */
+.lorem img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.lorem h4 {
+  font-size: 22px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.lorem  p {
+  line-height: 1.9;
+  font-size: 18px;
+  color: #656565;
+  padding-bottom: 50px;
+}
+/* End New Section */
+
+/* Start Why */
+
+.why h2 {
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+
+.why p {
+  line-height: 1.9;
+  font-size: 18px;
+  color:  #656565;
+}
+
+.why .panel {
+  border: 1px solid #DDD;
+  color: #656565;
+  font-weight: bold;
+}
+.why .panel-title {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.why .progress {
+  height: 7px;
+}
+/* End Why */
+
+/* Start Our Team */
+.our-team h2 {
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 22px;
+  color: #656565;
+}
+.our-team p {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 17px;
+  color: #656565;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+/* End Our Team */
+
+/* scroll to top */
+.scrollup{
+    position:fixed;
+    width:32px;
+    height:32px;
+    bottom:0px;
+    right:20px;
+    background: #29448e;
+}
+
+a.scrollup {
+	outline:0;
+	text-align: center;
+}
+
+a.scrollup:hover,a.scrollup:active,a.scrollup:focus {
+	opacity:1;
+	text-decoration:none;
+}
+a.scrollup i {
+	margin-top: 10px;
+	color: #fff;
+}
+a.scrollup i:hover {
+	text-decoration:none;
+}

@@ -1,0 +1,85 @@
+/*  Start Services */
+
+.services {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #29448e;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 15px;
+}
+/* End Services */
+
+/* Start My Fonts */
+.fonts h3 {
+  font-size:18px;
+  font-weight: bold;
+  color: #555;
+  line-height: 28px;
+  text-align: center;
+}
+
+.fonts i {
+    float: left;
+    color: #ffffff;
+    font-size: 30px;
+    min-width: 50px;
+    margin-top: 7px;
+    text-align: center;
+    background: #2ab975;
+    width: 72px;
+    height: 72px;
+    padding-top: 21px;
+    border: 1px solid #2ab975;
+}
+
+.fonts p {
+  color: #888;
+  text-align: center;
+  padding: -10px;
+  margin: -3px;
+  line-height: 1.4;
+}
+/* End My Fonts */
+
+/* Start IMAGE */
+.image {
+  padding-top: 70px;
+}
+
+.image h3 {
+  padding-bottom: 20px;
+}
+.image p {
+  font-size: 18px;
+  color:#656565;
+  line-height: 1.6;
+}
+/* End IMAGE */
+
+/* scroll to top */
+.scrollup{
+    position:fixed;
+    width:32px;
+    height:32px;
+    bottom:0px;
+    right:20px;
+    background: #29448e;
+}
+
+a.scrollup {
+	outline:0;
+	text-align: center;
+}
+
+a.scrollup:hover,a.scrollup:active,a.scrollup:focus {
+	opacity:1;
+	text-decoration:none;
+}
+a.scrollup i {
+	margin-top: 10px;
+	color: #fff;
+}
+a.scrollup i:hover {
+	text-decoration:none;
+}
